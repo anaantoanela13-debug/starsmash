@@ -74,9 +74,7 @@ I approach design like a sociologist with a spreadsheet open in another tab.
 
 ## 📞 Contact
 
-- 📧 Email: [[FILL IN YOUR EMAIL]](mailto:[FILL IN YOUR EMAIL])
-- 💼 LinkedIn: [[FILL IN LINKEDIN HANDLE]](https://linkedin.com/in/[FILL IN LINKEDIN HANDLE])
-- 📸 Instagram / Behance / portfolio: [[OPTIONAL — DELETE IF NONE]]([URL])
+- 📧 Email: [[anaantoanela13@gmail.com]](mailto:[anaantoanela13@gmail.com])
 
 ---
 
