@@ -7,7 +7,7 @@ Y2K comic tabloid site
 
 A Y2K-themed interactive tabloid magazine — built from scratch as a multidisciplinary design portfolio project.
 
-🌐 **Live site:** [[(https://starsmash.netlify.app/)]]([https://starsmash.netlify.app/])
+🌐 **Live site:** https://starsmash.netlify.app
 
 ---
 
